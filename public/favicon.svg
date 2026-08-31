@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vrijweg rolstoelicoon">
+  <rect width="64" height="64" rx="16" fill="#f06f56"/>
+  <circle cx="25" cy="13" r="6" fill="#fffdf9"/>
+  <path d="M25 22v17h16l8 13" fill="none" stroke="#fffdf9" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M27 29h12" fill="none" stroke="#fffdf9" stroke-width="6" stroke-linecap="round"/>
+  <path d="M37 45a15 15 0 1 1-16-17" fill="none" stroke="#18332f" stroke-width="6" stroke-linecap="round"/>
+</svg>
